@@ -1,6 +1,8 @@
 # 🚀 Hello there, I'm David Henao  🚀
 
-<img align='center src='' width='1000"'>
+<img align='center src='https://github.com/davehh1211/davehh1211/blob/master/nasa-Q1p7bh3SHj8-unsplash.jpg' width='1000"'>
+                                        
+<!--![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)-->
 
 
 <img align='right' src='https://media.giphy.com/media/YHjUiL0CBdybC/giphy-downsized.gif' width='200"'>
@@ -12,12 +14,6 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/davehh1211?label=Follow&style=social">
   
 </p>
-
-<!--
-**davehh1211/davehh1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-🔭🛰🌌🌠☄
-Here are some ideas to get you started:
-- You can reach on these -->
 
 ## I am a Full-Stack Software Developer in process of growing and learning. 
 🔭🛰🌌Space Enthusiast 🌠☄ and  🎮📚💻 a code lover, any contribution you want to make for me to grow is well welcomed. Feel free to give any piece of advice. Thanks a lot in advance. 
