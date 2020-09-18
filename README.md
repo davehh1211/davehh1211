@@ -30,7 +30,19 @@
   * Searching Algorithms
   * Sorting Algorithms
   * Stacks, Queues, FIFO, LIFO
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davehh1211)](https://github.com/davehh1211/github-readme-stats)
+
+![David's github stats](https://github-readme-stats.vercel.app/api?username=davehh1211&show_icons=true&theme=synthwave)
+
 
 <img align='center' src='https://media.giphy.com/media/YHjUiL0CBdybC/giphy-downsized.gif' width='200"'>
 
 <!-- <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
+<p align="center">
+<a href="https://twitter.com/davelockly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@davelockly" height="25" width="25" /></a>
+<a href="https://www.linkedin.com/in/oscar-david-henao-hidalgo-021b2b1a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oscar-david-henao-hidalgo-021b2b1a3" height="25" width="25" /></a>
+<a href="https://www.facebook.com/oscar.d.hidalgo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="davehh1211" height="25" width="25" /></a>
+<a href="https://medium.com/@davelockly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="davehh1211" height="25" width="25" /></a>
+<a href="https://www.reddit.com/user/davehh1211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="davehh1211" height="25" width="25" /></a>
+</p>
