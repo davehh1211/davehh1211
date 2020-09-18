@@ -1,6 +1,8 @@
-# 🚀 Hello there, I'm David Henao  🚀
+<img align="center" src='https://github.com/davehh1211/davehh1211/blob/master/nasa-Q1p7bh3SHj8-unsplash.jpg' width=1000>
 
-<img align='center' src='https://github.com/davehh1211/davehh1211/blob/master/nasa-Q1p7bh3SHj8-unsplash.jpg' width='1000"'>
+<h1 align="center"> 🚀 Hello there, I'm David Henao  🚀</h1>
+
+
 
 <p align="center">
   <a href="https://twitter.com/davelockly">
@@ -30,6 +32,17 @@
   * Searching Algorithms
   * Sorting Algorithms
   * Stacks, Queues, FIFO, LIFO
+  
+  ## My skills
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
+</p>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davehh1211)](https://github.com/davehh1211/github-readme-stats)
 
