@@ -56,9 +56,9 @@ Currently, I am Working on projects for improving our relationship with nature.
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
 </p>
 
-## [Take a look to my resume](https://github.com/davehh1211/david-henao.github.io/blob/main/David%20Henao%20Resume.pdf)**
+## [Take a look to my resume](https://github.com/davehh1211/david-henao.github.io/blob/main/David%20Henao%20Resume.pdf)
 
-## [Take a look to my webpage](https://davehh1211.github.io/david-henao.github.io/)**
+## [Take a look to my webpage](https://davehh1211.github.io/david-henao.github.io/)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davehh1211)](https://github.com/davehh1211/github-readme-stats)
 
