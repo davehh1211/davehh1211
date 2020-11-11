@@ -65,7 +65,7 @@ Currently, I am Working on projects for improving our relationship with nature.
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=davehh1211&show_icons=true&theme=synthwave)
 
 
-<img align="center" src='https://media.giphy.com/media/YHjUiL0CBdybC/giphy-downsized.gif' width='200"'>
+<p align="center"> <img src='https://media.giphy.com/media/YHjUiL0CBdybC/giphy-downsized.gif' width='200"'></p>
 
 <!-- <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
 <p align="center">
