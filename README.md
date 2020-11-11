@@ -16,7 +16,7 @@ As I worked as a teacher in different places, it comes
 easy for me to teach others, communicate properly with people, and make
 innovative ways to teach technology. 
 I am  a 🔭🛰🌌Space Enthusiast 🌠☄ and  🎮📚💻 a code lover, any contribution you want to make for me to grow is well welcomed. Feel free to give any piece of advice. Thanks a lot in advance. 
-#### - I DO care about nature and its preservation. It is our unique home, there is no other, Let's preserve.+
+#### I DO care about nature and its preservation. It is our unique home, there is no other, Let's preserve.
 Currently, I am Working on projects for improving our relationship with nature. 
 
 **Technical Skills**
